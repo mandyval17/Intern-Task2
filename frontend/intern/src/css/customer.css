@@ -1,0 +1,26 @@
+#for-form{
+    border-radius: 2rem;
+    background-color: #6457A6;;
+}
+#form-main{
+    width: 20rem;
+}
+.toggling{
+    margin: 0.5rem;
+    justify-content: center;
+    display: flex;
+}
+.btn-click{
+    /* padding-block:; */
+    color: white;
+    margin-inline: 0.5rem;
+    border-radius: 1rem;
+    background-color: blue;
+}
+.btn-click:hover{
+    background-color: rgba(0, 0, 255, 0.568);
+}
+
+#formcard{
+    background-color: #6457A6;
+}

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;500&family=Roboto+Condensed:wght@300&display=swap');
+*{
+    /* font-family: 'Oswald', sans-serif; */
+    /* font-family: 'Roboto Condensed', sans-serif;; */
+}
+.login-card{
+    width: 30%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.684), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.login-container{
+    background-color: #6457A6;
+    height: 100vh;
+}
+.login-card .btn{
+    color: white;
+    background-color: #6457A6;
+}
+
+

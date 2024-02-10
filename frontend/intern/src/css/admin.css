@@ -1,0 +1,75 @@
+.admin-container{
+    display: flex;
+    justify-content: center;
+    background-color: #6457A6;
+    min-height: 100vh;
+    align-items: center;
+}
+.admin-container .card{
+    background-color: rgb(146, 195, 195);
+    /* width: 90%; */
+    max-width: 90%;
+    /* min-height: 20vh; */
+}
+.admin-container .card .card-body{
+    /* background-color: ; */
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+}
+.admin-container .card .card-body .first{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.collapse{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.collapse .cards .card-body{
+    width: 25rem;
+    border-radius: 2rem;
+    background-color: #6457A6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.data-card{
+    padding: 1rem;
+}
+.cards-render{
+    /* background-color:#6457A6; */
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* width: 20%; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    border-radius: 2rem;
+}
+.cards-render .card{
+    width: 40%;
+    padding: 1rem;
+    border-radius: 2rem;
+    margin: 1rem;
+    background-color: #6457A6;
+}
+.dropdown{
+    margin:1rem;
+}
+.card-button{
+    background-color: rgb(146, 195, 195);
+}
+.card-button:hover{
+    background-color: white;
+}
+.Top{
+    margin: 1rem;
+}
+.btn-final{
+    color:white;
+    background-color: blue;
+}
+
